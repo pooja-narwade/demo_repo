@@ -1,7 +1,7 @@
 #### Complete guide on git and github
-This is *Italic* text.
-This is **Bold** text.
-*This is **Italic and bold** text.*
-This is \*simple text\* without any markdown.
-![Link an image.](/Pictures/ss.png)
+This is *Italic* text.<br>
+This is **Bold** text.<br>
+*This is **Italic and bold** text.*<br>
+This is \*simple text\* without any markdown.<br>
+![Link an image.](https://www.bing.com/aclick?ld=e8JK3UN9OICGolXl8EvXqtTTVUCUyf1yexcSgz1M1pceSTZOS-ZnIz3Pr_GNUtol6mr3PA7hWnukp_HAX64uObFpN9J-p20NiwHK8nBDAjotjrIXVabf65wJasYFFKfOKhP4EAukwrJR1WF9NBVldyte1uyzWEcqjfV1MGbN8sbWUBKKCxoP8xszVsY0T5sBAeYKddjQ&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmY3MzQlMmZjcSUzZmV2X3NpZCUzZDMlMjZldl9seCUzZHBsYS00NTc4NTAzOTA2NTY1MTQ2JTI2ZXZfbG4lM2QlMjZldl9wbCUzZCUyNmV2X2NyeCUzZCUyNmV2X210JTNkZSUyNmV2X24lM2RvJTI2ZXZfbHR4JTNkJTI2ZXZfcG9zJTNkJTI2ZXZfZHZjJTNkYyUyNmV2X2R2bSUzZCUyNmV2X3BoeSUzZCUyNmV2X2xvYyUzZCUyNmV2X2N4JTNkNDIwMDQxOTc5JTI2ZXZfYXglM2QxMTk4NDY4MzQyNjEzNzg0JTI2ZXZfZWZpZCUzZCUzYUclM2FzJTI2dXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cuZm5wLmNvbSUyNTJGZ2lmdCUyNTJGNC13aGl0ZS1vcmllbnRhbC1saWxpZXMtYm91cXVldCUyNTNGZWZfaWQlMjUzRCUyNTNBRyUyNTNBcyUyNTI2c19rd2NpZCUyNTNEQUwhNzM0ITMhIWUhIW8hNDU3ODUwMzkwNjU2NTE0NiElMjZtc2Nsa2lkJTNkNjk0ZGQ5M2U1YjMyMWU0M2ZjZmRiYmRjMGE0ZTg1ZWY&rlid=694dd93e5b321e43fcfdbbdc0a4e85ef&ntb=1)
 
