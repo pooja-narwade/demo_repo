@@ -1,6 +1,4 @@
 #### Complete guide on git and github
-<hr>
-<br>
 This is *Italic* text.<br>
 This is **Bold** text.<br>
 *This is **Italic and bold** text.*<br>
