@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://th.bing.com/th/id/R.447fb0a013db51304befa6d171307bca?rik=lBiyBedsB1kuww&pid=ImgRaw&r=0">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://th.bing.com/th/id/R.447fb0a013db51304befa6d171307bca?rik=lBiyBedsB1kuww&pid=ImgRaw&r=0" height=50px width=50px>
 </picture>
 
 #### Complete guide on git and github
